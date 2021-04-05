@@ -17,6 +17,10 @@ If this project or part of the codes or the data, provided here, helps your rese
 Z. Cai et al., "Noninvasive High-frequency Oscillations Riding Spikes Delineates Epileptogenic Sources." Proc. Natl. Acad. Sci., PAGE NUMBER, 2021 (DOI).
 
 ## License
-The source codes and testing data are provided as service to the scientific community and may be used for any non-commercial purposes under a CC-BY-NC-SA-4.0 license. Users should use the codes or data at their own risks. A copy of the CC-BY-NC-SA-4.0 license is provided along with this program. If not, see https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.
+The source codes and testing data are provided as service to the scientific community and may be used for any non-commercial purposes under a CC-BY-NC-SA-4.0 license.
+
+Users should use the codes or data at their own risks.
+
+A copy of the CC-BY-NC-SA-4.0 license is provided along with this program. If not, see https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.
 
 
