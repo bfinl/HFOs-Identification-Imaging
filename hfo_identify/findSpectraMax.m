@@ -84,8 +84,8 @@ else
     error('Could not find temporal peak, please check.')
 end
 % adjust with half window size
-tempRange = round(specTMax_loc*(nSamp/length(tSpec))*nShiftSTFT + nWinSTFT/2);
-tempPeak  = round(specTMax_PkLoc*(nSamp/length(tSpec))*nShiftSTFT + nWinSTFT/2);
+tempRange = round(specTMax_loc*nShiftSTFT + nWinSTFT/2);
+tempPeak  = round(specTMax_PkLoc*nShiftSTFT + nWinSTFT/2);
 
 end
 
