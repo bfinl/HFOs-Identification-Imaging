@@ -5,7 +5,7 @@ The software codes and sample data (clinical and simulation) have been developed
 The sample human data, which is deidentified, were collected as part of the NIH funded research at Mayo Clinic, Rochester, Minnesota, overseen by Dr. Gregory A. Worrell.
 
 ## Testing and examples
-See README.txt or README.pdf for more details.
+See [README.txt](/README.txt) or [README.pdf](/README.pdf) for more details.
 1. Download codes and data.
 2. Unzip the data folder from data_zip (also see [data/README.md](/data_zip/README.md)).
 3. Download and deploy necessary tooloboxes and functions (also see [toolbox/README.md](/toolbox/README.md)).
