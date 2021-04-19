@@ -27,8 +27,10 @@
 % Please cite the following paper in your publications or presentations if
 % this project or part of the codes or the data, provided here, helps your
 % research.
-% Z. Cai et al., "Noninvasive High-frequency Oscillations Riding Spikes
-% Delineates Epileptogenic Sources." Proc. Natl. Acad. Sci., 2021 (DOI).
+% Z. Cai, A. Sohrabpour, H. Jiang, S. Ye, B. Joseph, B. H. Brinkmann, 
+% G. A. Worrell, and B. He, "Noninvasive High-frequency Oscillations 
+% Riding Spikes Delineates Epileptogenic Sources." PNAS April 27, 2021 
+% 118 (17) e2011130118; https://doi.org/10.1073/pnas.2011130118.
 %
 %%% License
 % We provide our code and data under a CC-BY-NC-SA-4.0 license, "As is" and
