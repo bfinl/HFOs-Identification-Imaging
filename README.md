@@ -1,6 +1,6 @@
 # HFOs-Identification-Imaging
 ## About the project
-The software codes and sample data (clinical and simulation) have been developed under support from the National Institutes of Health (NIH) via grants NS096761, EB021027, MH114233, AT009263, and EB029354 awarded to Dr. Bin He.
+The software codes and sample data (clinical and simulation) have been developed under support from the National Institutes of Health (NIH) via grants NS096761, EB021027, MH114233, AT009263, and EB029354 awarded to [Dr. Bin He](https://www.cmu.edu/bme/helab/People/faculty/bhe.html).
 
 The sample human data, which is deidentified, were collected as part of the NIH funded research at Mayo Clinic, Rochester, Minnesota, overseen by Dr. Gregory A. Worrell.
 
